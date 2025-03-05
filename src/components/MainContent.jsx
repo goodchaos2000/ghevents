@@ -9,6 +9,11 @@ function MainContent() {
     setHelpVisible((isVisible) => !isVisible);
   }
 
+//my tests
+//testseats
+// git add . git comm
+
+//asdfasdfasdfasdfasdasdfasdasdfasf
   return (
     <main>
       <button onClick={toggleHelp}>{helpVisible ? 'Hide' : 'Show'} Help</button>
